@@ -1,2 +1,2 @@
 # Java
-Day1 program
+10 Days Training
