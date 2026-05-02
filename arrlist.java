@@ -10,8 +10,7 @@ class arrlist{
         System.out.println(arr);
         arr.remove(2);
         System.out.println(arr);
-        arr.contains(arr)(2);
-        System.out.println(arr);
+        
         
     }
 }
